@@ -1,0 +1,3364 @@
+[
+  {
+    "website": {
+      "name": "Bellhaven of Maplewood",
+      "address": "210 Orchard Lane",
+      "city": "Maplewood",
+      "state": "OH",
+      "zip": "44280",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-maplewood"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001L3LGR6W69J8DYYV",
+      "crm_name": "Bellhaven of Maplewood",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "210 Orchard Ln",
+      "crm_city": "Maplewood",
+      "crm_state": "OH",
+      "crm_zip": "44280",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001L3LGR6W69J8DYYV",
+        "crm_name": "Bellhaven of Maplewood",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "210 Orchard Ln",
+        "crm_city": "Maplewood",
+        "crm_state": "OH",
+        "crm_zip": "44280",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "0019M1Z45PGV2DJ971",
+        "crm_name": "Maplewood Senior Care Center",
+        "crm_parent_id": "00139TNDS8HNLUZ5A6",
+        "crm_parent_name": "Stonebridge Eldercare (Parent Account)",
+        "crm_address": "431 Main St",
+        "crm_city": "Maplewood",
+        "crm_state": "OH",
+        "crm_zip": "44280",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.668,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 0.32,
+          "name_similarity": 0.36
+        }
+      },
+      {
+        "account_id": "001W5G121A7SMRP58M",
+        "crm_name": "Bellhaven of Wooster",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "2301 Cleveland Rd",
+        "crm_city": "Wooster",
+        "crm_state": "OH",
+        "crm_zip": "44691",
+        "status": "Active",
+        "lifetime_revenue": 25000,
+        "outstanding_ar": 0,
+        "score": 0.288,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.452,
+          "name_similarity": 0.762
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of New Carlisle",
+      "address": "875 Elm Street",
+      "city": "New Carlisle",
+      "state": "OH",
+      "zip": "45344",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-new-carlisle"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001AQGPZ5G5VRES536",
+      "crm_name": "Bellhaven of New Carlisle",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "875 Elm St",
+      "crm_city": "New Carlisle",
+      "crm_state": "OH",
+      "crm_zip": "45344",
+      "status": "Active",
+      "lifetime_revenue": 156000,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001AQGPZ5G5VRES536",
+        "crm_name": "Bellhaven of New Carlisle",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "875 Elm St",
+        "crm_city": "New Carlisle",
+        "crm_state": "OH",
+        "crm_zip": "45344",
+        "status": "Active",
+        "lifetime_revenue": 156000,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "001KC1NG7EZDEKKA3T",
+        "crm_name": "Bellhaven of Meadville",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "341 Chestnut Street",
+        "crm_city": "Meadville",
+        "crm_state": "PA",
+        "crm_zip": "16335",
+        "status": "Active",
+        "lifetime_revenue": 87000,
+        "outstanding_ar": 1000,
+        "score": 0.273,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.4,
+          "name_similarity": 0.766
+        }
+      },
+      {
+        "account_id": "001QU150PM4Z15UA71",
+        "crm_name": "Bellhaven of Owosso",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1120 West Main Street",
+        "crm_city": "Owosso",
+        "crm_state": "MI",
+        "crm_zip": "48867",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.27,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.444,
+          "name_similarity": 0.682
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Wooster",
+      "address": "2301 Cleveland Road",
+      "city": "Wooster",
+      "state": "OH",
+      "zip": "44691",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-wooster"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001W5G121A7SMRP58M",
+      "crm_name": "Bellhaven of Wooster",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "2301 Cleveland Rd",
+      "crm_city": "Wooster",
+      "crm_state": "OH",
+      "crm_zip": "44691",
+      "status": "Active",
+      "lifetime_revenue": 25000,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001W5G121A7SMRP58M",
+        "crm_name": "Bellhaven of Wooster",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "2301 Cleveland Rd",
+        "crm_city": "Wooster",
+        "crm_state": "OH",
+        "crm_zip": "44691",
+        "status": "Active",
+        "lifetime_revenue": 25000,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "001CVBBCSDM7YHN220",
+        "crm_name": "Bellhaven Shores of Erie",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "4930 W Lake Rd",
+        "crm_city": "Erie",
+        "crm_state": "PA",
+        "crm_zip": "16505",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.291,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.516,
+          "name_similarity": 0.682
+        }
+      },
+      {
+        "account_id": "001JQER1RMYKNRLNME",
+        "crm_name": "Bellhaven of Goshen",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1610 College Avenue",
+        "crm_city": "Goshen",
+        "crm_state": "IN",
+        "crm_zip": "46526",
+        "status": "Active",
+        "lifetime_revenue": 121000,
+        "outstanding_ar": 0,
+        "score": 0.291,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.424,
+          "name_similarity": 0.821
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven Terrace of Akron",
+      "address": "55 Ridgewood Avenue",
+      "city": "Akron",
+      "state": "OH",
+      "zip": "44313",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-terrace-of-akron"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "0019Y4J61ZBG4R00CD",
+      "crm_name": "Bellhaven Terrace of Akron",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "55 Ridgewood Ave",
+      "crm_city": "Akron",
+      "crm_state": "OH",
+      "crm_zip": "44313",
+      "status": "Active",
+      "lifetime_revenue": 101000,
+      "outstanding_ar": 9000,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "0019Y4J61ZBG4R00CD",
+        "crm_name": "Bellhaven Terrace of Akron",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "55 Ridgewood Ave",
+        "crm_city": "Akron",
+        "crm_state": "OH",
+        "crm_zip": "44313",
+        "status": "Active",
+        "lifetime_revenue": 101000,
+        "outstanding_ar": 9000,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "00116ETS45BL7DTQP7",
+        "crm_name": "Bellhaven Care Center of Alliance",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1785 Freshley Ave",
+        "crm_city": "Alliance",
+        "crm_state": "OH",
+        "crm_zip": "44601",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.274,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.485,
+          "name_similarity": 0.644
+        }
+      },
+      {
+        "account_id": "001JQER1RMYKNRLNME",
+        "crm_name": "Bellhaven of Goshen",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1610 College Avenue",
+        "crm_city": "Goshen",
+        "crm_state": "IN",
+        "crm_zip": "46526",
+        "status": "Active",
+        "lifetime_revenue": 121000,
+        "outstanding_ar": 0,
+        "score": 0.265,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.438,
+          "name_similarity": 0.667
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Saline",
+      "address": "980 W Michigan Ave",
+      "city": "Saline",
+      "state": "MI",
+      "zip": "48176",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-saline"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001MVVAPY6U5TVYRC4",
+      "crm_name": "Bellhaven of Saline",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "980 West Michigan Avenue",
+      "crm_city": "Saline",
+      "crm_state": "MI",
+      "crm_zip": "48176",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 0.923,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001MVVAPY6U5TVYRC4",
+        "crm_name": "Bellhaven of Saline",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "980 West Michigan Avenue",
+        "crm_city": "Saline",
+        "crm_state": "MI",
+        "crm_zip": "48176",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 0.923,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "0016PVXH4B25HWR7QE",
+        "crm_name": "Bellhaven of Coldwater",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "90 N Michigan Ave",
+        "crm_city": "Coldwater",
+        "crm_state": "MI",
+        "crm_zip": "49036",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.421,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.914,
+          "name_similarity": 0.732
+        }
+      },
+      {
+        "account_id": "001JQER1RMYKNRLNME",
+        "crm_name": "Bellhaven of Goshen",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1610 College Avenue",
+        "crm_city": "Goshen",
+        "crm_state": "IN",
+        "crm_zip": "46526",
+        "status": "Active",
+        "lifetime_revenue": 121000,
+        "outstanding_ar": 0,
+        "score": 0.299,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.471,
+          "name_similarity": 0.789
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Goshen",
+      "address": "1610 College Ave",
+      "city": "Goshen",
+      "state": "IN",
+      "zip": "46526",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-goshen"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001JQER1RMYKNRLNME",
+      "crm_name": "Bellhaven of Goshen",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "1610 College Avenue",
+      "crm_city": "Goshen",
+      "crm_state": "IN",
+      "crm_zip": "46526",
+      "status": "Active",
+      "lifetime_revenue": 121000,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001JQER1RMYKNRLNME",
+        "crm_name": "Bellhaven of Goshen",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1610 College Avenue",
+        "crm_city": "Goshen",
+        "crm_state": "IN",
+        "crm_zip": "46526",
+        "status": "Active",
+        "lifetime_revenue": 121000,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "001A34WFSUYHCRBLFT",
+        "crm_name": "Bellhaven of Marietta",
+        "crm_parent_id": "001FWSQ30SFW6S7604",
+        "crm_parent_name": "Cedar Trail Communities (Parent Account)",
+        "crm_address": "805 Colegate Drive",
+        "crm_city": "Marietta",
+        "crm_state": "OH",
+        "crm_zip": "45750",
+        "status": "Active",
+        "lifetime_revenue": 51250,
+        "outstanding_ar": 3800,
+        "score": 0.314,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.581,
+          "name_similarity": 0.7
+        }
+      },
+      {
+        "account_id": "001SXSF4ELF0Z2LGDM",
+        "crm_name": "Bellhaven of Sandusky",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "2715 Columbus Ave",
+        "crm_city": "Sandusky",
+        "crm_state": "OH",
+        "crm_zip": "44870",
+        "status": "Active",
+        "lifetime_revenue": 130000,
+        "outstanding_ar": 5200,
+        "score": 0.314,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.545,
+          "name_similarity": 0.75
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Meadville",
+      "address": "341 Chestnut St",
+      "city": "Meadville",
+      "state": "PA",
+      "zip": "16335",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-meadville"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001KC1NG7EZDEKKA3T",
+      "crm_name": "Bellhaven of Meadville",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "341 Chestnut Street",
+      "crm_city": "Meadville",
+      "crm_state": "PA",
+      "crm_zip": "16335",
+      "status": "Active",
+      "lifetime_revenue": 87000,
+      "outstanding_ar": 1000,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001KC1NG7EZDEKKA3T",
+        "crm_name": "Bellhaven of Meadville",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "341 Chestnut Street",
+        "crm_city": "Meadville",
+        "crm_state": "PA",
+        "crm_zip": "16335",
+        "status": "Active",
+        "lifetime_revenue": 87000,
+        "outstanding_ar": 1000,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "001QU150PM4Z15UA71",
+        "crm_name": "Bellhaven of Owosso",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1120 West Main Street",
+        "crm_city": "Owosso",
+        "crm_state": "MI",
+        "crm_zip": "48867",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.296,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.562,
+          "name_similarity": 0.634
+        }
+      },
+      {
+        "account_id": "001LGFPBJY4N9MB6KL",
+        "crm_name": "Bellhaven Crossings of Lima",
+        "crm_parent_id": "001FJZYHR7MLFMNPLL",
+        "crm_parent_name": "Harborview Care Group (Parent Account)",
+        "crm_address": "3115 N Cole St",
+        "crm_city": "Lima",
+        "crm_state": "OH",
+        "crm_zip": "45801",
+        "status": "Active",
+        "lifetime_revenue": 47000,
+        "outstanding_ar": 0,
+        "score": 0.288,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.552,
+          "name_similarity": 0.612
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Defiance",
+      "address": "700 Carpenter Rd",
+      "city": "Defiance",
+      "state": "OH",
+      "zip": "43512",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-defiance"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001R4PXTUD9R6FNN8V",
+      "crm_name": "Bellhaven of Defiance",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "700 Carpenter Road",
+      "crm_city": "Defiance",
+      "crm_state": "OH",
+      "crm_zip": "43512",
+      "status": "Active",
+      "lifetime_revenue": 66000,
+      "outstanding_ar": 9500,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001R4PXTUD9R6FNN8V",
+        "crm_name": "Bellhaven of Defiance",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "700 Carpenter Road",
+        "crm_city": "Defiance",
+        "crm_state": "OH",
+        "crm_zip": "43512",
+        "status": "Active",
+        "lifetime_revenue": 66000,
+        "outstanding_ar": 9500,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "001U1750VLVJAGG1S5",
+        "crm_name": "Bellhaven Gardens of Monroe",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "750 Stewart Rd",
+        "crm_city": "Monroe",
+        "crm_state": "MI",
+        "crm_zip": "48162",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.297,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.6,
+          "name_similarity": 0.583
+        }
+      },
+      {
+        "account_id": "001U6RW32TY0WSXZZB",
+        "crm_name": "Bellhaven of Tiffin",
+        "crm_parent_id": "001FWSQ30SFW6S7604",
+        "crm_parent_name": "Cedar Trail Communities (Parent Account)",
+        "crm_address": "45 St Lawrence Dr",
+        "crm_city": "Tiffin",
+        "crm_state": "OH",
+        "crm_zip": "44883",
+        "status": "Active",
+        "lifetime_revenue": 84000,
+        "outstanding_ar": 12400,
+        "score": 0.287,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.424,
+          "name_similarity": 0.8
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven Woods of Toledo",
+      "address": "4850 NW Sylvania Ave",
+      "city": "Toledo",
+      "state": "OH",
+      "zip": "43623",
+      "care_offerings": [
+        "Memory Support"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-woods-of-toledo"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "0014DHACE6WQU3RMM5",
+      "crm_name": "Bellhaven Woods of Toledo",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "4850 Northwest Sylvania Avenue",
+      "crm_city": "Toledo",
+      "crm_state": "OH",
+      "crm_zip": "43623",
+      "status": "Active",
+      "lifetime_revenue": 54000,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 0.851,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "0014DHACE6WQU3RMM5",
+        "crm_name": "Bellhaven Woods of Toledo",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "4850 Northwest Sylvania Avenue",
+        "crm_city": "Toledo",
+        "crm_state": "OH",
+        "crm_zip": "43623",
+        "status": "Active",
+        "lifetime_revenue": 54000,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 0.851,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "0016PVXH4B25HWR7QE",
+        "crm_name": "Bellhaven of Coldwater",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "90 N Michigan Ave",
+        "crm_city": "Coldwater",
+        "crm_state": "MI",
+        "crm_zip": "49036",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.298,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.541,
+          "name_similarity": 0.681
+        }
+      },
+      {
+        "account_id": "001MVVAPY6U5TVYRC4",
+        "crm_name": "Bellhaven of Saline",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "980 West Michigan Avenue",
+        "crm_city": "Saline",
+        "crm_state": "MI",
+        "crm_zip": "48176",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.297,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.537,
+          "name_similarity": 0.682
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Marion",
+      "address": "199 Barks Rd W",
+      "city": "Marion",
+      "state": "OH",
+      "zip": "43302",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-marion"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "0015L38R1Z5947ZZP7",
+      "crm_name": "Bellhaven of Marion",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "199 Barks Road West",
+      "crm_city": "Marion",
+      "crm_state": "OH",
+      "crm_zip": "43302",
+      "status": "Active",
+      "lifetime_revenue": 87000,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 0.903,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "0015L38R1Z5947ZZP7",
+        "crm_name": "Bellhaven of Marion",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "199 Barks Road West",
+        "crm_city": "Marion",
+        "crm_state": "OH",
+        "crm_zip": "43302",
+        "status": "Active",
+        "lifetime_revenue": 87000,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 0.903,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "001CVBBCSDM7YHN220",
+        "crm_name": "Bellhaven Shores of Erie",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "4930 W Lake Rd",
+        "crm_city": "Erie",
+        "crm_state": "PA",
+        "crm_zip": "16505",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.29,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.5,
+          "name_similarity": 0.698
+        }
+      },
+      {
+        "account_id": "001L3LGR6W69J8DYYV",
+        "crm_name": "Bellhaven of Maplewood",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "210 Orchard Ln",
+        "crm_city": "Maplewood",
+        "crm_state": "OH",
+        "crm_zip": "44280",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.285,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.429,
+          "name_similarity": 0.78
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Kalamazoo",
+      "address": "3222 Gull Rd",
+      "city": "Kalamazoo",
+      "state": "MI",
+      "zip": "49048",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-kalamazoo"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001NSHWKQD0YJLPQ20",
+      "crm_name": "Bellhaven of Kalamazoo",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "3222 Gull Road",
+      "crm_city": "Kalamazoo",
+      "crm_state": "MI",
+      "crm_zip": "49048",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001NSHWKQD0YJLPQ20",
+        "crm_name": "Bellhaven of Kalamazoo",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "3222 Gull Road",
+        "crm_city": "Kalamazoo",
+        "crm_state": "MI",
+        "crm_zip": "49048",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "001CF3LDWVRGL09P4F",
+        "crm_name": "Bellhaven of Portsmouth",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "2222 Gallia St",
+        "crm_city": "Portsmouth",
+        "crm_state": "OH",
+        "crm_zip": "45626",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.318,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.615,
+          "name_similarity": 0.667
+        }
+      },
+      {
+        "account_id": "001W5G121A7SMRP58M",
+        "crm_name": "Bellhaven of Wooster",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "2301 Cleveland Rd",
+        "crm_city": "Wooster",
+        "crm_state": "OH",
+        "crm_zip": "44691",
+        "status": "Active",
+        "lifetime_revenue": 25000,
+        "outstanding_ar": 0,
+        "score": 0.288,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.483,
+          "name_similarity": 0.714
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven Court of Altoona",
+      "address": "1125 Logan Blvd",
+      "city": "Altoona",
+      "state": "PA",
+      "zip": "16602",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-court-of-altoona"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "0011D2P3CWSHMF81C8",
+      "crm_name": "Bellhaven Court of Altoona",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "1125 Logan Boulevard",
+      "crm_city": "Altoona",
+      "crm_state": "PA",
+      "crm_zip": "16602",
+      "status": "Active",
+      "lifetime_revenue": 61000,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "0011D2P3CWSHMF81C8",
+        "crm_name": "Bellhaven Court of Altoona",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1125 Logan Boulevard",
+        "crm_city": "Altoona",
+        "crm_state": "PA",
+        "crm_zip": "16602",
+        "status": "Active",
+        "lifetime_revenue": 61000,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "001EGU7BMJ942ZTRE6",
+        "crm_name": "Bellhaven of Owosso",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1120 W Main St",
+        "crm_city": "Owosso",
+        "crm_state": "MI",
+        "crm_zip": "48867",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.278,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.483,
+          "name_similarity": 0.667
+        }
+      },
+      {
+        "account_id": "001A34WFSUYHCRBLFT",
+        "crm_name": "Bellhaven of Marietta",
+        "crm_parent_id": "001FWSQ30SFW6S7604",
+        "crm_parent_name": "Cedar Trail Communities (Parent Account)",
+        "crm_address": "805 Colegate Drive",
+        "crm_city": "Marietta",
+        "crm_state": "OH",
+        "crm_zip": "45750",
+        "status": "Active",
+        "lifetime_revenue": 51250,
+        "outstanding_ar": 3800,
+        "score": 0.276,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.467,
+          "name_similarity": 0.681
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven Rehabilitation & Nursing of Grove City",
+      "address": "3985 Broadway",
+      "city": "Grove City",
+      "state": "OH",
+      "zip": "43123",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-rehabilitation-nursing-of-grove-city"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001TZCSTBZFM6K5BGN",
+      "crm_name": "Bellhaven Rehab and Nursing of Grove City",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "3985 Broadway",
+      "crm_city": "Grove City",
+      "crm_state": "OH",
+      "crm_zip": "43123",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 0.897
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001TZCSTBZFM6K5BGN",
+        "crm_name": "Bellhaven Rehab and Nursing of Grove City",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "3985 Broadway",
+        "crm_city": "Grove City",
+        "crm_state": "OH",
+        "crm_zip": "43123",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 0.897
+        }
+      },
+      {
+        "account_id": "001CRBM9TKD9F721PG",
+        "crm_name": "Harvest Hill Nursing & Rehabilitation",
+        "crm_parent_id": "00139TNDS8HNLUZ5A6",
+        "crm_parent_name": "Stonebridge Eldercare (Parent Account)",
+        "crm_address": "3925 Cherry Dr",
+        "crm_city": "Youngstown",
+        "crm_state": "OH",
+        "crm_zip": "44505",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.227,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.444,
+          "name_similarity": 0.469
+        }
+      },
+      {
+        "account_id": "0015L38R1Z5947ZZP7",
+        "crm_name": "Bellhaven of Marion",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "199 Barks Road West",
+        "crm_city": "Marion",
+        "crm_state": "OH",
+        "crm_zip": "43302",
+        "status": "Active",
+        "lifetime_revenue": 87000,
+        "outstanding_ar": 0,
+        "score": 0.206,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.4,
+          "name_similarity": 0.431
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven at Sycamore Ridge",
+      "address": "7420 Sycamore Ridge Dr",
+      "city": "Miamisburg",
+      "state": "OH",
+      "zip": "45342",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-at-sycamore-ridge"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "00191H7JR16471SZ34",
+      "crm_name": "Bellhaven of Sycamore Ridge",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "7420 Sycamore Ridge Dr",
+      "crm_city": "Miamisburg",
+      "crm_state": "OH",
+      "crm_zip": "45342",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 0.926
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "00191H7JR16471SZ34",
+        "crm_name": "Bellhaven of Sycamore Ridge",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "7420 Sycamore Ridge Dr",
+        "crm_city": "Miamisburg",
+        "crm_state": "OH",
+        "crm_zip": "45342",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 0.926
+        }
+      },
+      {
+        "account_id": "001UELXDAKFRKB8932",
+        "crm_name": "Bellhaven of Port Clinton",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1420 Harbor Point Dr",
+        "crm_city": "Port Clinton",
+        "crm_state": "OH",
+        "crm_zip": "43452",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.279,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.571,
+          "name_similarity": 0.538
+        }
+      },
+      {
+        "account_id": "001CVBBCSDM7YHN220",
+        "crm_name": "Bellhaven Shores of Erie",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "4930 W Lake Rd",
+        "crm_city": "Erie",
+        "crm_state": "PA",
+        "crm_zip": "16505",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.275,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.444,
+          "name_similarity": 0.706
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "The Arbors at Bellhaven - Dayton",
+      "address": "2210 Salem Ave",
+      "city": "Dayton",
+      "state": "OH",
+      "zip": "45406",
+      "care_offerings": [
+        "Memory Support"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/the-arbors-at-bellhaven-dayton"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "0010KJFP601YNTZVDA",
+      "crm_name": "Arbors at Bellhaven Dayton",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "2210 Salem Ave",
+      "crm_city": "Dayton",
+      "crm_state": "OH",
+      "crm_zip": "45406",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 0.929
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "0010KJFP601YNTZVDA",
+        "crm_name": "Arbors at Bellhaven Dayton",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "2210 Salem Ave",
+        "crm_city": "Dayton",
+        "crm_state": "OH",
+        "crm_zip": "45406",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 0.929
+        }
+      },
+      {
+        "account_id": "001JQER1RMYKNRLNME",
+        "crm_name": "Bellhaven of Goshen",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1610 College Avenue",
+        "crm_city": "Goshen",
+        "crm_state": "IN",
+        "crm_zip": "46526",
+        "status": "Active",
+        "lifetime_revenue": 121000,
+        "outstanding_ar": 0,
+        "score": 0.278,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.6,
+          "name_similarity": 0.49
+        }
+      },
+      {
+        "account_id": "001H1JMVZWP46D5VUF",
+        "crm_name": "Cedar Trail of Zanesville",
+        "crm_parent_id": "001FWSQ30SFW6S7604",
+        "crm_parent_name": "Cedar Trail Communities (Parent Account)",
+        "crm_address": "2680 Maple Avenue",
+        "crm_city": "Zanesville",
+        "crm_state": "OH",
+        "crm_zip": "43701",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.272,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.714,
+          "name_similarity": 0.291
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven Healthcare Centre of Ashland",
+      "address": "1631 Claremont Ave",
+      "city": "Ashland",
+      "state": "OH",
+      "zip": "44805",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-healthcare-centre-of-ashland"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001RJ0D7Z5MAZN5HX5",
+      "crm_name": "Bellhaven Health Care Center of Ashland",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "1631 Claremont Ave",
+      "crm_city": "Ashland",
+      "crm_state": "OH",
+      "crm_zip": "44805",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001RJ0D7Z5MAZN5HX5",
+        "crm_name": "Bellhaven Health Care Center of Ashland",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1631 Claremont Ave",
+        "crm_city": "Ashland",
+        "crm_state": "OH",
+        "crm_zip": "44805",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "001JQER1RMYKNRLNME",
+        "crm_name": "Bellhaven of Goshen",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1610 College Avenue",
+        "crm_city": "Goshen",
+        "crm_state": "IN",
+        "crm_zip": "46526",
+        "status": "Active",
+        "lifetime_revenue": 121000,
+        "outstanding_ar": 0,
+        "score": 0.304,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.647,
+          "name_similarity": 0.552
+        }
+      },
+      {
+        "account_id": "00116ETS45BL7DTQP7",
+        "crm_name": "Bellhaven Care Center of Alliance",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1785 Freshley Ave",
+        "crm_city": "Alliance",
+        "crm_state": "OH",
+        "crm_zip": "44601",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.298,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.457,
+          "name_similarity": 0.806
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Port Clinton",
+      "address": "1420 Harbor Point Dr",
+      "city": "Port Clinton",
+      "state": "OH",
+      "zip": "43452",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-port-clinton"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001UELXDAKFRKB8932",
+      "crm_name": "Bellhaven of Port Clinton",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "1420 Harbor Point Dr",
+      "crm_city": "Port Clinton",
+      "crm_state": "OH",
+      "crm_zip": "43452",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001UELXDAKFRKB8932",
+        "crm_name": "Bellhaven of Port Clinton",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1420 Harbor Point Dr",
+        "crm_city": "Port Clinton",
+        "crm_state": "OH",
+        "crm_zip": "43452",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "001JD2MWRA74LTSN24",
+        "crm_name": "Harborview Nursing & Rehab of Port Clinton",
+        "crm_parent_id": "001FJZYHR7MLFMNPLL",
+        "crm_parent_name": "Harborview Care Group (Parent Account)",
+        "crm_address": "1420 Harbor Point Drive",
+        "crm_city": "Port Clinton",
+        "crm_state": "OH",
+        "crm_zip": "43452",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 0.646
+        }
+      },
+      {
+        "account_id": "00191H7JR16471SZ34",
+        "crm_name": "Bellhaven of Sycamore Ridge",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "7420 Sycamore Ridge Dr",
+        "crm_city": "Miamisburg",
+        "crm_state": "OH",
+        "crm_zip": "45342",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.302,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.571,
+          "name_similarity": 0.654
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven Shores of Erie",
+      "address": "4930 W Lake Rd",
+      "city": "Erie",
+      "state": "PA",
+      "zip": "16505",
+      "care_offerings": [
+        "Assisted Living",
+        "Memory Support"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-shores-of-erie"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001CVBBCSDM7YHN220",
+      "crm_name": "Bellhaven Shores of Erie",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "4930 W Lake Rd",
+      "crm_city": "Erie",
+      "crm_state": "PA",
+      "crm_zip": "16505",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001CVBBCSDM7YHN220",
+        "crm_name": "Bellhaven Shores of Erie",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "4930 W Lake Rd",
+        "crm_city": "Erie",
+        "crm_state": "PA",
+        "crm_zip": "16505",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "001BLYF02K97SZLZHH",
+        "crm_name": "Harborview Shores of Erie",
+        "crm_parent_id": "001FJZYHR7MLFMNPLL",
+        "crm_parent_name": "Harborview Care Group (Parent Account)",
+        "crm_address": "4930 West Lake Road",
+        "crm_city": "Erie",
+        "crm_state": "PA",
+        "crm_zip": "16505",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 0.903,
+          "name_similarity": 0.776
+        }
+      },
+      {
+        "account_id": "001U1750VLVJAGG1S5",
+        "crm_name": "Bellhaven Gardens of Monroe",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "750 Stewart Rd",
+        "crm_city": "Monroe",
+        "crm_state": "MI",
+        "crm_zip": "48162",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.291,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.5,
+          "name_similarity": 0.706
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Kettering",
+      "address": "3313 Wilmington Pike",
+      "city": "Kettering",
+      "state": "OH",
+      "zip": "45429",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-kettering"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001WR41PYNWXCAE2X4",
+      "crm_name": "Kettering Care Centre",
+      "crm_parent_id": "001FJZYHR7MLFMNPLL",
+      "crm_parent_name": "Harborview Care Group (Parent Account)",
+      "crm_address": "3313 Wilmington Pike",
+      "crm_city": "Kettering",
+      "crm_state": "OH",
+      "crm_zip": "45429",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 0.419
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001WR41PYNWXCAE2X4",
+        "crm_name": "Kettering Care Centre",
+        "crm_parent_id": "001FJZYHR7MLFMNPLL",
+        "crm_parent_name": "Harborview Care Group (Parent Account)",
+        "crm_address": "3313 Wilmington Pike",
+        "crm_city": "Kettering",
+        "crm_state": "OH",
+        "crm_zip": "45429",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 0.419
+        }
+      },
+      {
+        "account_id": "0016KTS1UAWBRXS09J",
+        "crm_name": "Kettering Nursing & Rehabilitation",
+        "crm_parent_id": "",
+        "crm_parent_name": "",
+        "crm_address": "3313 Wilmington Pike",
+        "crm_city": "Kettering",
+        "crm_state": "OH",
+        "crm_zip": "45429",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 0.333
+        }
+      },
+      {
+        "account_id": "001B7XZAA3AFALS9GP",
+        "crm_name": "Kettering Senior Campus",
+        "crm_parent_id": "001FWSQ30SFW6S7604",
+        "crm_parent_name": "Cedar Trail Communities (Parent Account)",
+        "crm_address": "3313 Wilmington Pk",
+        "crm_city": "Kettering",
+        "crm_state": "OH",
+        "crm_zip": "45429",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 0.947,
+          "name_similarity": 0.4
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven Gardens of Monroe",
+      "address": "750 Stewart Rd",
+      "city": "Monroe",
+      "state": "MI",
+      "zip": "48162",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-gardens-of-monroe"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001U1750VLVJAGG1S5",
+      "crm_name": "Bellhaven Gardens of Monroe",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "750 Stewart Rd",
+      "crm_city": "Monroe",
+      "crm_state": "MI",
+      "crm_zip": "48162",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001U1750VLVJAGG1S5",
+        "crm_name": "Bellhaven Gardens of Monroe",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "750 Stewart Rd",
+        "crm_city": "Monroe",
+        "crm_state": "MI",
+        "crm_zip": "48162",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "0011AB44D05WLA9HTX",
+        "crm_name": "Cedar Trail of Monroe",
+        "crm_parent_id": "001FWSQ30SFW6S7604",
+        "crm_parent_name": "Cedar Trail Communities (Parent Account)",
+        "crm_address": "750 Stewart Road",
+        "crm_city": "Monroe",
+        "crm_state": "MI",
+        "crm_zip": "48162",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 0.542
+        }
+      },
+      {
+        "account_id": "00159PL81N38KM4FHM",
+        "crm_name": "Monroe Gardens Care Center",
+        "crm_parent_id": "001FJZYHR7MLFMNPLL",
+        "crm_parent_name": "Harborview Care Group (Parent Account)",
+        "crm_address": "750 Stewart Rd",
+        "crm_city": "Monroe",
+        "crm_state": "MI",
+        "crm_zip": "48162",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 0.528
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Tiffin",
+      "address": "45 St Lawrence Dr",
+      "city": "Tiffin",
+      "state": "OH",
+      "zip": "44883",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-tiffin"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001U6RW32TY0WSXZZB",
+      "crm_name": "Bellhaven of Tiffin",
+      "crm_parent_id": "001FWSQ30SFW6S7604",
+      "crm_parent_name": "Cedar Trail Communities (Parent Account)",
+      "crm_address": "45 St Lawrence Dr",
+      "crm_city": "Tiffin",
+      "crm_state": "OH",
+      "crm_zip": "44883",
+      "status": "Active",
+      "lifetime_revenue": 84000,
+      "outstanding_ar": 12400,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001U6RW32TY0WSXZZB",
+        "crm_name": "Bellhaven of Tiffin",
+        "crm_parent_id": "001FWSQ30SFW6S7604",
+        "crm_parent_name": "Cedar Trail Communities (Parent Account)",
+        "crm_address": "45 St Lawrence Dr",
+        "crm_city": "Tiffin",
+        "crm_state": "OH",
+        "crm_zip": "44883",
+        "status": "Active",
+        "lifetime_revenue": 84000,
+        "outstanding_ar": 12400,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "001R4PXTUD9R6FNN8V",
+        "crm_name": "Bellhaven of Defiance",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "700 Carpenter Road",
+        "crm_city": "Defiance",
+        "crm_state": "OH",
+        "crm_zip": "43512",
+        "status": "Active",
+        "lifetime_revenue": 66000,
+        "outstanding_ar": 9500,
+        "score": 0.305,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.485,
+          "name_similarity": 0.8
+        }
+      },
+      {
+        "account_id": "001CVBBCSDM7YHN220",
+        "crm_name": "Bellhaven Shores of Erie",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "4930 W Lake Rd",
+        "crm_city": "Erie",
+        "crm_state": "PA",
+        "crm_zip": "16505",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.285,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.516,
+          "name_similarity": 0.651
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Marietta",
+      "address": "805 Colegate Dr",
+      "city": "Marietta",
+      "state": "OH",
+      "zip": "45750",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-marietta"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001A34WFSUYHCRBLFT",
+      "crm_name": "Bellhaven of Marietta",
+      "crm_parent_id": "001FWSQ30SFW6S7604",
+      "crm_parent_name": "Cedar Trail Communities (Parent Account)",
+      "crm_address": "805 Colegate Drive",
+      "crm_city": "Marietta",
+      "crm_state": "OH",
+      "crm_zip": "45750",
+      "status": "Active",
+      "lifetime_revenue": 51250,
+      "outstanding_ar": 3800,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001A34WFSUYHCRBLFT",
+        "crm_name": "Bellhaven of Marietta",
+        "crm_parent_id": "001FWSQ30SFW6S7604",
+        "crm_parent_name": "Cedar Trail Communities (Parent Account)",
+        "crm_address": "805 Colegate Drive",
+        "crm_city": "Marietta",
+        "crm_state": "OH",
+        "crm_zip": "45750",
+        "status": "Active",
+        "lifetime_revenue": 51250,
+        "outstanding_ar": 3800,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "001JQER1RMYKNRLNME",
+        "crm_name": "Bellhaven of Goshen",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1610 College Avenue",
+        "crm_city": "Goshen",
+        "crm_state": "IN",
+        "crm_zip": "46526",
+        "status": "Active",
+        "lifetime_revenue": 121000,
+        "outstanding_ar": 0,
+        "score": 0.314,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.581,
+          "name_similarity": 0.7
+        }
+      },
+      {
+        "account_id": "00191H7JR16471SZ34",
+        "crm_name": "Bellhaven of Sycamore Ridge",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "7420 Sycamore Ridge Dr",
+        "crm_city": "Miamisburg",
+        "crm_state": "OH",
+        "crm_zip": "45342",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.304,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.541,
+          "name_similarity": 0.708
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven Crossings of Lima",
+      "address": "3115 N Cole St",
+      "city": "Lima",
+      "state": "OH",
+      "zip": "45801",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-crossings-of-lima"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001LGFPBJY4N9MB6KL",
+      "crm_name": "Bellhaven Crossings of Lima",
+      "crm_parent_id": "001FJZYHR7MLFMNPLL",
+      "crm_parent_name": "Harborview Care Group (Parent Account)",
+      "crm_address": "3115 N Cole St",
+      "crm_city": "Lima",
+      "crm_state": "OH",
+      "crm_zip": "45801",
+      "status": "Active",
+      "lifetime_revenue": 47000,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001LGFPBJY4N9MB6KL",
+        "crm_name": "Bellhaven Crossings of Lima",
+        "crm_parent_id": "001FJZYHR7MLFMNPLL",
+        "crm_parent_name": "Harborview Care Group (Parent Account)",
+        "crm_address": "3115 N Cole St",
+        "crm_city": "Lima",
+        "crm_state": "OH",
+        "crm_zip": "45801",
+        "status": "Active",
+        "lifetime_revenue": 47000,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "0011D2P3CWSHMF81C8",
+        "crm_name": "Bellhaven Court of Altoona",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1125 Logan Boulevard",
+        "crm_city": "Altoona",
+        "crm_state": "PA",
+        "crm_zip": "16602",
+        "status": "Active",
+        "lifetime_revenue": 61000,
+        "outstanding_ar": 0,
+        "score": 0.281,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.483,
+          "name_similarity": 0.679
+        }
+      },
+      {
+        "account_id": "001KC1NG7EZDEKKA3T",
+        "crm_name": "Bellhaven of Meadville",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "341 Chestnut Street",
+        "crm_city": "Meadville",
+        "crm_state": "PA",
+        "crm_zip": "16335",
+        "status": "Active",
+        "lifetime_revenue": 87000,
+        "outstanding_ar": 1000,
+        "score": 0.28,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.552,
+          "name_similarity": 0.571
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Zanesville",
+      "address": "2680 Maple Ave",
+      "city": "Zanesville",
+      "state": "OH",
+      "zip": "43701",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-zanesville"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001H1JMVZWP46D5VUF",
+      "crm_name": "Cedar Trail of Zanesville",
+      "crm_parent_id": "001FWSQ30SFW6S7604",
+      "crm_parent_name": "Cedar Trail Communities (Parent Account)",
+      "crm_address": "2680 Maple Avenue",
+      "crm_city": "Zanesville",
+      "crm_state": "OH",
+      "crm_zip": "43701",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 0.667
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001H1JMVZWP46D5VUF",
+        "crm_name": "Cedar Trail of Zanesville",
+        "crm_parent_id": "001FWSQ30SFW6S7604",
+        "crm_parent_name": "Cedar Trail Communities (Parent Account)",
+        "crm_address": "2680 Maple Avenue",
+        "crm_city": "Zanesville",
+        "crm_state": "OH",
+        "crm_zip": "43701",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 0.667
+        }
+      },
+      {
+        "account_id": "001JQER1RMYKNRLNME",
+        "crm_name": "Bellhaven of Goshen",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1610 College Avenue",
+        "crm_city": "Goshen",
+        "crm_state": "IN",
+        "crm_zip": "46526",
+        "status": "Active",
+        "lifetime_revenue": 121000,
+        "outstanding_ar": 0,
+        "score": 0.313,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.6,
+          "name_similarity": 0.667
+        }
+      },
+      {
+        "account_id": "0010KJFP601YNTZVDA",
+        "crm_name": "Arbors at Bellhaven Dayton",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "2210 Salem Ave",
+        "crm_city": "Dayton",
+        "crm_state": "OH",
+        "crm_zip": "45406",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.312,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.714,
+          "name_similarity": 0.49
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Chagrin Falls",
+      "address": "150 River St",
+      "city": "Chagrin Falls",
+      "state": "OH",
+      "zip": "44022",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-chagrin-falls"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001RJU1X4NBWC1Q0G7",
+      "crm_name": "Riverbend Manor Care Center",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "150 River St",
+      "crm_city": "Chagrin Falls",
+      "crm_state": "OH",
+      "crm_zip": "44022",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 0.226
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001RJU1X4NBWC1Q0G7",
+        "crm_name": "Riverbend Manor Care Center",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "150 River St",
+        "crm_city": "Chagrin Falls",
+        "crm_state": "OH",
+        "crm_zip": "44022",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 0.226
+        }
+      },
+      {
+        "account_id": "001EXHQSTKFJW1S18Z",
+        "crm_name": "Winding Creek Health Campus",
+        "crm_parent_id": "",
+        "crm_parent_name": "",
+        "crm_address": "1780 River St",
+        "crm_city": "Scranton",
+        "crm_state": "PA",
+        "crm_zip": "18503",
+        "status": "Active",
+        "lifetime_revenue": 60000,
+        "outstanding_ar": 0,
+        "score": 0.317,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.88,
+          "name_similarity": 0.264
+        }
+      },
+      {
+        "account_id": "001AQGPZ5G5VRES536",
+        "crm_name": "Bellhaven of New Carlisle",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "875 Elm St",
+        "crm_city": "New Carlisle",
+        "crm_state": "OH",
+        "crm_zip": "45344",
+        "status": "Active",
+        "lifetime_revenue": 156000,
+        "outstanding_ar": 0,
+        "score": 0.305,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.545,
+          "name_similarity": 0.706
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven Willow Creek",
+      "address": "8060 Willow Creek Ln",
+      "city": "Portage",
+      "state": "MI",
+      "zip": "49024",
+      "care_offerings": [
+        "Memory Support"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-willow-creek"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "0017MN2JYAJBDS8WQZ",
+      "crm_name": "Sunny Acres Retirement Home",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "8060 Willow Creek Lane",
+      "crm_city": "Portage",
+      "crm_state": "MI",
+      "crm_zip": "49024",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 0.204
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "0017MN2JYAJBDS8WQZ",
+        "crm_name": "Sunny Acres Retirement Home",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "8060 Willow Creek Lane",
+        "crm_city": "Portage",
+        "crm_state": "MI",
+        "crm_zip": "49024",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 0.204
+        }
+      },
+      {
+        "account_id": "001L3LGR6W69J8DYYV",
+        "crm_name": "Bellhaven of Maplewood",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "210 Orchard Ln",
+        "crm_city": "Maplewood",
+        "crm_state": "OH",
+        "crm_zip": "44280",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.25,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.471,
+          "name_similarity": 0.545
+        }
+      },
+      {
+        "account_id": "001JQER1RMYKNRLNME",
+        "crm_name": "Bellhaven of Goshen",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1610 College Avenue",
+        "crm_city": "Goshen",
+        "crm_state": "IN",
+        "crm_zip": "46526",
+        "status": "Active",
+        "lifetime_revenue": 121000,
+        "outstanding_ar": 0,
+        "score": 0.243,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.389,
+          "name_similarity": 0.634
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Ashtabula",
+      "address": "3156 W Prospect Rd",
+      "city": "Ashtabula",
+      "state": "OH",
+      "zip": "44004",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-ashtabula"
+    },
+    "classification": "NEEDS_REVIEW",
+    "best_match": {
+      "account_id": "001NXP9X46CWEPSLSV",
+      "crm_name": "Bellhaven of Ashtabula",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "PO Box 517",
+      "crm_city": "Ashtabula",
+      "crm_state": "OH",
+      "crm_zip": "44004",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.721,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 0.071,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001NXP9X46CWEPSLSV",
+        "crm_name": "Bellhaven of Ashtabula",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "PO Box 517",
+        "crm_city": "Ashtabula",
+        "crm_state": "OH",
+        "crm_zip": "44004",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.721,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 0.071,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "001R4PXTUD9R6FNN8V",
+        "crm_name": "Bellhaven of Defiance",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "700 Carpenter Road",
+        "crm_city": "Defiance",
+        "crm_state": "OH",
+        "crm_zip": "43512",
+        "status": "Active",
+        "lifetime_revenue": 66000,
+        "outstanding_ar": 9500,
+        "score": 0.271,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.471,
+          "name_similarity": 0.651
+        }
+      },
+      {
+        "account_id": "001LGFPBJY4N9MB6KL",
+        "crm_name": "Bellhaven Crossings of Lima",
+        "crm_parent_id": "001FJZYHR7MLFMNPLL",
+        "crm_parent_name": "Harborview Care Group (Parent Account)",
+        "crm_address": "3115 N Cole St",
+        "crm_city": "Lima",
+        "crm_state": "OH",
+        "crm_zip": "45801",
+        "status": "Active",
+        "lifetime_revenue": 47000,
+        "outstanding_ar": 0,
+        "score": 0.264,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.5,
+          "name_similarity": 0.571
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Owosso",
+      "address": "1120 W Main St",
+      "city": "Owosso",
+      "state": "MI",
+      "zip": "48867",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-owosso"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001EGU7BMJ942ZTRE6",
+      "crm_name": "Bellhaven of Owosso",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "1120 W Main St",
+      "crm_city": "Owosso",
+      "crm_state": "MI",
+      "crm_zip": "48867",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001EGU7BMJ942ZTRE6",
+        "crm_name": "Bellhaven of Owosso",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1120 W Main St",
+        "crm_city": "Owosso",
+        "crm_state": "MI",
+        "crm_zip": "48867",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "001QU150PM4Z15UA71",
+        "crm_name": "Bellhaven of Owosso",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1120 West Main Street",
+        "crm_city": "Owosso",
+        "crm_state": "MI",
+        "crm_zip": "48867",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 0.903,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "001CF3LDWVRGL09P4F",
+        "crm_name": "Bellhaven of Portsmouth",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "2222 Gallia St",
+        "crm_city": "Portsmouth",
+        "crm_state": "OH",
+        "crm_zip": "45626",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.293,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.5,
+          "name_similarity": 0.714
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Portsmouth",
+      "address": "2222 Gallia St",
+      "city": "Portsmouth",
+      "state": "OH",
+      "zip": "45662",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-portsmouth"
+    },
+    "classification": "NEEDS_REVIEW",
+    "best_match": {
+      "account_id": "001CF3LDWVRGL09P4F",
+      "crm_name": "Bellhaven of Portsmouth",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "2222 Gallia St",
+      "crm_city": "Portsmouth",
+      "crm_state": "OH",
+      "crm_zip": "45626",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.88,
+      "evidence": {
+        "zip_match": false,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001CF3LDWVRGL09P4F",
+        "crm_name": "Bellhaven of Portsmouth",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "2222 Gallia St",
+        "crm_city": "Portsmouth",
+        "crm_state": "OH",
+        "crm_zip": "45626",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.88,
+        "evidence": {
+          "zip_match": false,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "001NSHWKQD0YJLPQ20",
+        "crm_name": "Bellhaven of Kalamazoo",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "3222 Gull Road",
+        "crm_city": "Kalamazoo",
+        "crm_state": "MI",
+        "crm_zip": "49048",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.318,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.615,
+          "name_similarity": 0.667
+        }
+      },
+      {
+        "account_id": "001EGU7BMJ942ZTRE6",
+        "crm_name": "Bellhaven of Owosso",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1120 W Main St",
+        "crm_city": "Owosso",
+        "crm_state": "MI",
+        "crm_zip": "48867",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.302,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.5,
+          "name_similarity": 0.762
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Batavia",
+      "address": "2000 Hospital Dr",
+      "city": "Batavia",
+      "state": "OH",
+      "zip": "45103",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-batavia"
+    },
+    "classification": "NO_CRM_ACCOUNT",
+    "best_match": {
+      "account_id": "001UELXDAKFRKB8932",
+      "crm_name": "Bellhaven of Port Clinton",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "1420 Harbor Point Dr",
+      "crm_city": "Port Clinton",
+      "crm_state": "OH",
+      "crm_zip": "43452",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.317,
+      "evidence": {
+        "zip_match": false,
+        "city_match": false,
+        "street_similarity": 0.611,
+        "name_similarity": 0.667
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001UELXDAKFRKB8932",
+        "crm_name": "Bellhaven of Port Clinton",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1420 Harbor Point Dr",
+        "crm_city": "Port Clinton",
+        "crm_state": "OH",
+        "crm_zip": "43452",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.317,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.611,
+          "name_similarity": 0.667
+        }
+      },
+      {
+        "account_id": "001A34WFSUYHCRBLFT",
+        "crm_name": "Bellhaven of Marietta",
+        "crm_parent_id": "001FWSQ30SFW6S7604",
+        "crm_parent_name": "Cedar Trail Communities (Parent Account)",
+        "crm_address": "805 Colegate Drive",
+        "crm_city": "Marietta",
+        "crm_state": "OH",
+        "crm_zip": "45750",
+        "status": "Active",
+        "lifetime_revenue": 51250,
+        "outstanding_ar": 3800,
+        "score": 0.292,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.452,
+          "name_similarity": 0.78
+        }
+      },
+      {
+        "account_id": "001U6RW32TY0WSXZZB",
+        "crm_name": "Bellhaven of Tiffin",
+        "crm_parent_id": "001FWSQ30SFW6S7604",
+        "crm_parent_name": "Cedar Trail Communities (Parent Account)",
+        "crm_address": "45 St Lawrence Dr",
+        "crm_city": "Tiffin",
+        "crm_state": "OH",
+        "crm_zip": "44883",
+        "status": "Active",
+        "lifetime_revenue": 84000,
+        "outstanding_ar": 12400,
+        "score": 0.281,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.424,
+          "name_similarity": 0.769
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven at Union Square",
+      "address": "118 Union Square Dr",
+      "city": "New Albany",
+      "state": "OH",
+      "zip": "43054",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-at-union-square"
+    },
+    "classification": "NO_CRM_ACCOUNT",
+    "best_match": {
+      "account_id": "001GNU41AVXZRLLJ9P",
+      "crm_name": "Union Square Senior Living",
+      "crm_parent_id": "001DAAUWV2J3SHQJ34",
+      "crm_parent_name": "Juniper Point Healthcare (Parent Account)",
+      "crm_address": "240 Market St",
+      "crm_city": "New Albany",
+      "crm_state": "OH",
+      "crm_zip": "43054",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.65,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 0.188,
+        "name_similarity": 0.471
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001GNU41AVXZRLLJ9P",
+        "crm_name": "Union Square Senior Living",
+        "crm_parent_id": "001DAAUWV2J3SHQJ34",
+        "crm_parent_name": "Juniper Point Healthcare (Parent Account)",
+        "crm_address": "240 Market St",
+        "crm_city": "New Albany",
+        "crm_state": "OH",
+        "crm_zip": "43054",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.65,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 0.188,
+          "name_similarity": 0.471
+        }
+      },
+      {
+        "account_id": "001A34WFSUYHCRBLFT",
+        "crm_name": "Bellhaven of Marietta",
+        "crm_parent_id": "001FWSQ30SFW6S7604",
+        "crm_parent_name": "Cedar Trail Communities (Parent Account)",
+        "crm_address": "805 Colegate Drive",
+        "crm_city": "Marietta",
+        "crm_state": "OH",
+        "crm_zip": "45750",
+        "status": "Active",
+        "lifetime_revenue": 51250,
+        "outstanding_ar": 3800,
+        "score": 0.263,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.471,
+          "name_similarity": 0.609
+        }
+      },
+      {
+        "account_id": "001TNJACR5MSJBBCJ6",
+        "crm_name": "Timber Ridge Nursing & Rehabilitation",
+        "crm_parent_id": "00139TNDS8HNLUZ5A6",
+        "crm_parent_name": "Stonebridge Eldercare (Parent Account)",
+        "crm_address": "897 Union Dr",
+        "crm_city": "Fort Wayne",
+        "crm_state": "IN",
+        "crm_zip": "46805",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.254,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.645,
+          "name_similarity": 0.3
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Carlisle",
+      "address": "640 Walnut Bottom Rd",
+      "city": "Carlisle",
+      "state": "PA",
+      "zip": "17015",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-carlisle"
+    },
+    "classification": "NO_CRM_ACCOUNT",
+    "best_match": {
+      "account_id": "001CVBBCSDM7YHN220",
+      "crm_name": "Bellhaven Shores of Erie",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "4930 W Lake Rd",
+      "crm_city": "Erie",
+      "crm_state": "PA",
+      "crm_zip": "16505",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.283,
+      "evidence": {
+        "zip_match": false,
+        "city_match": false,
+        "street_similarity": 0.471,
+        "name_similarity": 0.711
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001CVBBCSDM7YHN220",
+        "crm_name": "Bellhaven Shores of Erie",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "4930 W Lake Rd",
+        "crm_city": "Erie",
+        "crm_state": "PA",
+        "crm_zip": "16505",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.283,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.471,
+          "name_similarity": 0.711
+        }
+      },
+      {
+        "account_id": "001KC1NG7EZDEKKA3T",
+        "crm_name": "Bellhaven of Meadville",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "341 Chestnut Street",
+        "crm_city": "Meadville",
+        "crm_state": "PA",
+        "crm_zip": "16335",
+        "status": "Active",
+        "lifetime_revenue": 87000,
+        "outstanding_ar": 1000,
+        "score": 0.278,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.4,
+          "name_similarity": 0.791
+        }
+      },
+      {
+        "account_id": "001R4PXTUD9R6FNN8V",
+        "crm_name": "Bellhaven of Defiance",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "700 Carpenter Road",
+        "crm_city": "Defiance",
+        "crm_state": "OH",
+        "crm_zip": "43512",
+        "status": "Active",
+        "lifetime_revenue": 66000,
+        "outstanding_ar": 9500,
+        "score": 0.276,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.444,
+          "name_similarity": 0.714
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Amberly Manor",
+      "address": "4390 Darrow Rd",
+      "city": "Hudson",
+      "state": "OH",
+      "zip": "44236",
+      "care_offerings": [
+        "Assisted Living"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/amberly-manor"
+    },
+    "classification": "NO_CRM_ACCOUNT",
+    "best_match": {
+      "account_id": "0015D74ZLRY810RGY5",
+      "crm_name": "Amberly Manor",
+      "crm_parent_id": "001DAAUWV2J3SHQJ34",
+      "crm_parent_name": "Juniper Point Healthcare (Parent Account)",
+      "crm_address": "918 S Nevada Ave",
+      "crm_city": "Colorado Springs",
+      "crm_state": "CO",
+      "crm_zip": "80903",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.3,
+      "evidence": {
+        "zip_match": false,
+        "city_match": false,
+        "street_similarity": 0.333,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "0015D74ZLRY810RGY5",
+        "crm_name": "Amberly Manor",
+        "crm_parent_id": "001DAAUWV2J3SHQJ34",
+        "crm_parent_name": "Juniper Point Healthcare (Parent Account)",
+        "crm_address": "918 S Nevada Ave",
+        "crm_city": "Colorado Springs",
+        "crm_state": "CO",
+        "crm_zip": "80903",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.3,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.333,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "001UXEM0PCSUVRAYPF",
+        "crm_name": "Amberly Care Center",
+        "crm_parent_id": "00139TNDS8HNLUZ5A6",
+        "crm_parent_name": "Stonebridge Eldercare (Parent Account)",
+        "crm_address": "9320 Cherry Blvd",
+        "crm_city": "Grand Rapids",
+        "crm_state": "MI",
+        "crm_zip": "49503",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.277,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.467,
+          "name_similarity": 0.688
+        }
+      },
+      {
+        "account_id": "001S10VS057X9M2JX8",
+        "crm_name": "Crestwood Manor",
+        "crm_parent_id": "001DAAUWV2J3SHQJ34",
+        "crm_parent_name": "Juniper Point Healthcare (Parent Account)",
+        "crm_address": "8719 River Rd",
+        "crm_city": "Cincinnati",
+        "crm_state": "OH",
+        "crm_zip": "45219",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.256,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.519,
+          "name_similarity": 0.5
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven of Chesterton",
+      "address": "1250 NW Franklin Street",
+      "city": "Chesterton",
+      "state": "IN",
+      "zip": "46304",
+      "care_offerings": [
+        "Short-Term Rehabilitation & Nursing"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-of-chesterton"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "0013NUZQHQUEZ8DXEG",
+      "crm_name": "Chesterton Senior Commons",
+      "crm_parent_id": "0015QAPLGS3FVYEEEM",
+      "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+      "crm_address": "1250 Northwest Franklin St",
+      "crm_city": "Chesterton",
+      "crm_state": "IN",
+      "crm_zip": "46304",
+      "status": "Active",
+      "lifetime_revenue": 0,
+      "outstanding_ar": 0,
+      "score": 0.9,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 0.844,
+        "name_similarity": 0.417
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "0013NUZQHQUEZ8DXEG",
+        "crm_name": "Chesterton Senior Commons",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1250 Northwest Franklin St",
+        "crm_city": "Chesterton",
+        "crm_state": "IN",
+        "crm_zip": "46304",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.9,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 0.844,
+          "name_similarity": 0.417
+        }
+      },
+      {
+        "account_id": "001EGU7BMJ942ZTRE6",
+        "crm_name": "Bellhaven of Owosso",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1120 W Main St",
+        "crm_city": "Owosso",
+        "crm_state": "MI",
+        "crm_zip": "48867",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.361,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.727,
+          "name_similarity": 0.714
+        }
+      },
+      {
+        "account_id": "001QU150PM4Z15UA71",
+        "crm_name": "Bellhaven of Owosso",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "1120 West Main Street",
+        "crm_city": "Owosso",
+        "crm_state": "MI",
+        "crm_zip": "48867",
+        "status": "Active",
+        "lifetime_revenue": 0,
+        "outstanding_ar": 0,
+        "score": 0.343,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.667,
+          "name_similarity": 0.714
+        }
+      }
+    ]
+  },
+  {
+    "website": {
+      "name": "Bellhaven Meadows of Findlay",
+      "address": "1800 N Blanchard St",
+      "city": "Findlay",
+      "state": "OH",
+      "zip": "45840",
+      "care_offerings": [
+        "Assisted Living",
+        "Memory Support"
+      ],
+      "url": "https://analyst-assessment-production.up.railway.app/communities/bellhaven-meadows-of-findlay"
+    },
+    "classification": "CONFIDENT_MATCH",
+    "best_match": {
+      "account_id": "001UKEFGADQ8YCZ4YM",
+      "crm_name": "Bellhaven Meadows of Findlay",
+      "crm_parent_id": "",
+      "crm_parent_name": "",
+      "crm_address": "1800 N Blanchard St",
+      "crm_city": "Findlay",
+      "crm_state": "OH",
+      "crm_zip": "45840",
+      "status": "Active",
+      "lifetime_revenue": 22000,
+      "outstanding_ar": 0,
+      "score": 0.98,
+      "evidence": {
+        "zip_match": true,
+        "city_match": true,
+        "street_similarity": 1.0,
+        "name_similarity": 1.0
+      }
+    },
+    "top_candidates": [
+      {
+        "account_id": "001UKEFGADQ8YCZ4YM",
+        "crm_name": "Bellhaven Meadows of Findlay",
+        "crm_parent_id": "",
+        "crm_parent_name": "",
+        "crm_address": "1800 N Blanchard St",
+        "crm_city": "Findlay",
+        "crm_state": "OH",
+        "crm_zip": "45840",
+        "status": "Active",
+        "lifetime_revenue": 22000,
+        "outstanding_ar": 0,
+        "score": 0.98,
+        "evidence": {
+          "zip_match": true,
+          "city_match": true,
+          "street_similarity": 1.0,
+          "name_similarity": 1.0
+        }
+      },
+      {
+        "account_id": "0015L38R1Z5947ZZP7",
+        "crm_name": "Bellhaven of Marion",
+        "crm_parent_id": "0015QAPLGS3FVYEEEM",
+        "crm_parent_name": "Bellhaven Senior Living (Parent Account)",
+        "crm_address": "199 Barks Road West",
+        "crm_city": "Marion",
+        "crm_state": "OH",
+        "crm_zip": "43302",
+        "status": "Active",
+        "lifetime_revenue": 87000,
+        "outstanding_ar": 0,
+        "score": 0.278,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.5,
+          "name_similarity": 0.638
+        }
+      },
+      {
+        "account_id": "001LGFPBJY4N9MB6KL",
+        "crm_name": "Bellhaven Crossings of Lima",
+        "crm_parent_id": "001FJZYHR7MLFMNPLL",
+        "crm_parent_name": "Harborview Care Group (Parent Account)",
+        "crm_address": "3115 N Cole St",
+        "crm_city": "Lima",
+        "crm_state": "OH",
+        "crm_zip": "45801",
+        "status": "Active",
+        "lifetime_revenue": 47000,
+        "outstanding_ar": 0,
+        "score": 0.276,
+        "evidence": {
+          "zip_match": false,
+          "city_match": false,
+          "street_similarity": 0.485,
+          "name_similarity": 0.655
+        }
+      }
+    ]
+  }
+]
