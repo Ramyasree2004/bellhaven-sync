@@ -34,7 +34,7 @@ A total of **35 website locations** were identified and saved to:
 
 Retrieved the available CRM accounts through the provided API.
 
-The CRM dataset contained **121 accounts** and included fields such as:
+The CRM dataset contained **130 accounts** and included fields such as:
 
 - Account ID
 - Account name
